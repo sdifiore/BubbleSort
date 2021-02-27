@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{F774D03E-920C-4F2D-A2D2-89C597FCD7A2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F774D03E-920C-4F2D-A2D2-89C597FCD7A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F774D03E-920C-4F2D-A2D2-89C597FCD7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F774D03E-920C-4F2D-A2D2-89C597FCD7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F774D03E-920C-4F2D-A2D2-89C597FCD7A2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D06525F8-478B-41C8-A029-97D627132167}
+	EndGlobalSection
+EndGlobal
